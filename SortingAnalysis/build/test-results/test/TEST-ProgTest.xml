@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ProgTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2018-11-09T03:27:02" hostname="Cory-Tablet" time="0.361">
+  <properties/>
+  <testcase name="testMergeSort1000" classname="ProgTest" time="0.066"/>
+  <testcase name="testQuickSort10000" classname="ProgTest" time="0.093"/>
+  <testcase name="testInsertionSort1000" classname="ProgTest" time="0.014"/>
+  <testcase name="testQuickCompareTime" classname="ProgTest" time="0.002"/>
+  <testcase name="testMergeSwapCount" classname="ProgTest" time="0.001"/>
+  <testcase name="testMergeCompareCount" classname="ProgTest" time="0.001"/>
+  <testcase name="testQuickSort10" classname="ProgTest" time="0.001"/>
+  <testcase name="testMergeSort10" classname="ProgTest" time="0.002"/>
+  <testcase name="testInsertionCompareTime" classname="ProgTest" time="0.001"/>
+  <testcase name="testQuickCompareCount" classname="ProgTest" time="0.002"/>
+  <testcase name="testMergeCompareTime" classname="ProgTest" time="0.002"/>
+  <testcase name="testInsertionCompareCount" classname="ProgTest" time="0.001"/>
+  <testcase name="testMergeSort10000" classname="ProgTest" time="0.054"/>
+  <testcase name="testQuickSort1000" classname="ProgTest" time="0.01"/>
+  <testcase name="testInsertionSwapCount" classname="ProgTest" time="0.002"/>
+  <testcase name="testInsertionSort10" classname="ProgTest" time="0.002"/>
+  <testcase name="testQuickSwapCount" classname="ProgTest" time="0.001"/>
+  <testcase name="testInsertionSort10000" classname="ProgTest" time="0.086"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,1 @@
+java -jar "build/libs/CyclicGraphSearch.jar" %1

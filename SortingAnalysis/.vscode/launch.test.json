@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "SortingAnalysis",
+                "projectName": "SortingAnalysis",
+                "workingDirectory": "c:\\Users\\Cory\\Documents\\CS-203\\SortingAnalysis",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "SortingAnalysis",
+                "projectName": "SortingAnalysis",
+                "workingDirectory": "c:\\Users\\Cory\\Documents\\CS-203\\SortingAnalysis",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}

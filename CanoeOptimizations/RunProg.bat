@@ -1,0 +1,1 @@
+java -jar "build/libs/CanoeOptimizations.jar" %1

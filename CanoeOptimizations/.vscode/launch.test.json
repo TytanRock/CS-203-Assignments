@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "CanoeOptimizations",
+                "projectName": "CanoeOptimizations",
+                "workingDirectory": "c:\\Users\\Cory\\Documents\\CS-203\\CanoeOptimizations",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "CanoeOptimizations",
+                "projectName": "CanoeOptimizations",
+                "workingDirectory": "c:\\Users\\Cory\\Documents\\CS-203\\CanoeOptimizations",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}

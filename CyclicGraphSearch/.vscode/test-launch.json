@@ -1,0 +1,22 @@
+{
+    "run": [
+        {
+            "name": "CyclicGraphSearch",
+            "projectName": "CyclicGraphSearch",
+            "workingDirectory": "c:\\Users\\Cory\\Documents\\CS-203\\CyclicGraphSearch",
+            "args": [],
+            "vmargs": [],
+            "preLaunchTask": ""
+        }
+    ],
+    "debug": [
+        {
+            "name": "CyclicGraphSearch",
+            "projectName": "CyclicGraphSearch",
+            "workingDirectory": "c:\\Users\\Cory\\Documents\\CS-203\\CyclicGraphSearch",
+            "args": [],
+            "vmargs": [],
+            "preLaunchTask": ""
+        }
+    ]
+}
